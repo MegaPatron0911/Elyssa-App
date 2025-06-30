@@ -1,3 +1,4 @@
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_ElyssaBack.Domain.Tests
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\bin\Debug\net8.0\testhost.dll
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\bin\Debug\net8.0\testhost.exe
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -86,11 +87,14 @@ C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaB
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\bin\Debug\net8.0\ElyssaBack.Domain.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\bin\Debug\net8.0\ElyssaBack.Domain.pdb
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\obj\Debug\net8.0\ElyssaBack.Domain.Tests.csproj.AssemblyReference.cache
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\obj\Debug\net8.0\ElyssaBack.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\obj\Debug\net8.0\ElyssaBack.Domain.Tests.AssemblyInfoInputs.cache
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\obj\Debug\net8.0\ElyssaBack.Domain.Tests.AssemblyInfo.cs
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\obj\Debug\net8.0\ElyssaBack.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\obj\Debug\net8.0\ElyssaBack.Domain.Tests.sourcelink.json
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\obj\Debug\net8.0\ElyssaBa.5FD34008.Up2Date
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\obj\Debug\net8.0\ElyssaBack.Domain.Tests.dll
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain.Tests\obj\Debug\net8.0\refint\ElyssaBack.Domain.Tests.dll

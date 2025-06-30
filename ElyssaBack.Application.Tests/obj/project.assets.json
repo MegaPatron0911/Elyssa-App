@@ -1708,6 +1708,29 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "ElyssaBack.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ElyssaBack.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ElyssaBack.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ElyssaBack.Application.dll": {}
+        }
+      },
+      "ElyssaBack.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ElyssaBack.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ElyssaBack.Domain.dll": {}
+        }
       }
     }
   },
@@ -5497,10 +5520,21 @@
         "xunit.runner.visualstudio.2.5.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "ElyssaBack.Application/1.0.0": {
+      "type": "project",
+      "path": "../ElyssaBack.Application/ElyssaBack.Application.csproj",
+      "msbuildProject": "../ElyssaBack.Application/ElyssaBack.Application.csproj"
+    },
+    "ElyssaBack.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ElyssaBack.Domain/ElyssaBack.Domain.csproj",
+      "msbuildProject": "../ElyssaBack.Domain/ElyssaBack.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "ElyssaBack.Application >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.3",
@@ -5534,7 +5568,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\oswal\\OneDrive\\Documentos\\proyectos\\Tartinorium Back\\Elyssa App\\ElyssaBack.Application\\ElyssaBack.Application.csproj": {
+              "projectPath": "C:\\Users\\oswal\\OneDrive\\Documentos\\proyectos\\Tartinorium Back\\Elyssa App\\ElyssaBack.Application\\ElyssaBack.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -5,6 +5,7 @@ C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaB
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ElyssaBack.Domain.AssemblyInfoInputs.cache
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ElyssaBack.Domain.AssemblyInfo.cs
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ElyssaBack.Domain.csproj.CoreCompileInputs.cache
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ElyssaBack.Domain.sourcelink.json
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ElyssaBack.Domain.dll
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\refint\ElyssaBack.Domain.dll
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ElyssaBack.Domain.pdb

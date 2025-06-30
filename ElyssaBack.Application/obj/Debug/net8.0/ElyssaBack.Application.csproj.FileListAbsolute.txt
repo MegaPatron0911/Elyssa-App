@@ -1,10 +1,15 @@
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\bin\Debug\net8.0\ElyssaBack.Application.deps.json
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\bin\Debug\net8.0\ElyssaBack.Application.dll
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\bin\Debug\net8.0\ElyssaBack.Application.pdb
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\bin\Debug\net8.0\ElyssaBack.Domain.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\bin\Debug\net8.0\ElyssaBack.Domain.pdb
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\obj\Debug\net8.0\ElyssaBack.Application.csproj.AssemblyReference.cache
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\obj\Debug\net8.0\ElyssaBack.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\obj\Debug\net8.0\ElyssaBack.Application.AssemblyInfoInputs.cache
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\obj\Debug\net8.0\ElyssaBack.Application.AssemblyInfo.cs
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\obj\Debug\net8.0\ElyssaBack.Application.csproj.CoreCompileInputs.cache
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\obj\Debug\net8.0\ElyssaBack.Application.sourcelink.json
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\obj\Debug\net8.0\ElyssaBa.A8A1422F.Up2Date
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\obj\Debug\net8.0\ElyssaBack.Application.dll
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\obj\Debug\net8.0\refint\ElyssaBack.Application.dll
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Application\obj\Debug\net8.0\ElyssaBack.Application.pdb

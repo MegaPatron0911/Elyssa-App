@@ -17,6 +17,7 @@ C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaB
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\obj\Debug\net8.0\ElyssaBack.API.csproj.CoreCompileInputs.cache
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\obj\Debug\net8.0\ElyssaBack.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\obj\Debug\net8.0\ElyssaBack.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\obj\Debug\net8.0\ElyssaBack.API.sourcelink.json
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\obj\Debug\net8.0\staticwebassets\msbuild.ElyssaBack.API.Microsoft.AspNetCore.StaticWebAssets.props

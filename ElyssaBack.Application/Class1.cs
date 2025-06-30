@@ -1,6 +1,6 @@
 ﻿namespace ElyssaBack.Application;
 
-public class Class1
+public class UserService
 {
-
+    // Lógica de servicio de usuario aquí
 }
