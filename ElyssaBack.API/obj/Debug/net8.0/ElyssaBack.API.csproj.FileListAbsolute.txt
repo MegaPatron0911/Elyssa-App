@@ -32,3 +32,7 @@ C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaB
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\obj\Debug\net8.0\ElyssaBack.API.pdb
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\obj\Debug\net8.0\ElyssaBack.API.genruntimeconfig.cache
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\obj\Debug\net8.0\ref\ElyssaBack.API.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\bin\Debug\net8.0\ElyssaBack.Application.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\bin\Debug\net8.0\ElyssaBack.Domain.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\bin\Debug\net8.0\ElyssaBack.Application.pdb
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.API\bin\Debug\net8.0\ElyssaBack.Domain.pdb
