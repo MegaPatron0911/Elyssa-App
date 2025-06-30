@@ -9,6 +9,7 @@
       "ElyssaBack.API/1.0.0": {
         "dependencies": {
           "ElyssaBack.Application": "1.0.0",
+          "ElyssaBack.Domain": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.17",
           "Swashbuckle.AspNetCore": "6.6.2"
         },

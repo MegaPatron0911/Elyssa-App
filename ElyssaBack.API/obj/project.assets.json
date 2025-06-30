@@ -511,6 +511,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "ElyssaBack.Application >= 1.0.0",
+      "ElyssaBack.Domain >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.17",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
@@ -545,6 +546,9 @@
           "projectReferences": {
             "C:\\Users\\oswal\\OneDrive\\Documentos\\proyectos\\Tartinorium Back\\Elyssa App\\ElyssaBack.Application\\ElyssaBack.Application.csproj": {
               "projectPath": "C:\\Users\\oswal\\OneDrive\\Documentos\\proyectos\\Tartinorium Back\\Elyssa App\\ElyssaBack.Application\\ElyssaBack.Application.csproj"
+            },
+            "C:\\Users\\oswal\\OneDrive\\Documentos\\proyectos\\Tartinorium Back\\Elyssa App\\ElyssaBack.Domain\\ElyssaBack.Domain.csproj": {
+              "projectPath": "C:\\Users\\oswal\\OneDrive\\Documentos\\proyectos\\Tartinorium Back\\Elyssa App\\ElyssaBack.Domain\\ElyssaBack.Domain.csproj"
             }
           }
         }

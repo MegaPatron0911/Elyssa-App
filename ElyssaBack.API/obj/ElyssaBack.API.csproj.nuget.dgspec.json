@@ -31,6 +31,9 @@
             "projectReferences": {
               "C:\\Users\\oswal\\OneDrive\\Documentos\\proyectos\\Tartinorium Back\\Elyssa App\\ElyssaBack.Application\\ElyssaBack.Application.csproj": {
                 "projectPath": "C:\\Users\\oswal\\OneDrive\\Documentos\\proyectos\\Tartinorium Back\\Elyssa App\\ElyssaBack.Application\\ElyssaBack.Application.csproj"
+              },
+              "C:\\Users\\oswal\\OneDrive\\Documentos\\proyectos\\Tartinorium Back\\Elyssa App\\ElyssaBack.Domain\\ElyssaBack.Domain.csproj": {
+                "projectPath": "C:\\Users\\oswal\\OneDrive\\Documentos\\proyectos\\Tartinorium Back\\Elyssa App\\ElyssaBack.Domain\\ElyssaBack.Domain.csproj"
               }
             }
           }

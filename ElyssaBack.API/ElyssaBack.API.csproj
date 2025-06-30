@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ElyssaBack.Application\ElyssaBack.Application.csproj" />
+    <ProjectReference Include="..\ElyssaBack.Domain\ElyssaBack.Domain.csproj" />
   </ItemGroup>
 
 </Project>

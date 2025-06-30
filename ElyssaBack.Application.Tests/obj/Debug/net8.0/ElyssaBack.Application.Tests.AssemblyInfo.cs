@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElyssaBack.Application.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ae0bb7f548ed9e1a2c2c98d8ddf8776e9a3aaec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3477e2c158dc05836f016dd7090c536b3e405e37")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElyssaBack.Application.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElyssaBack.Application.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
