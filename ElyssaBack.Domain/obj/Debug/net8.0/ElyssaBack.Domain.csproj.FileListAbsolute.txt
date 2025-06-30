@@ -1,0 +1,11 @@
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\bin\Debug\net8.0\ElyssaBack.Domain.deps.json
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\bin\Debug\net8.0\ElyssaBack.Domain.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\bin\Debug\net8.0\ElyssaBack.Domain.pdb
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ElyssaBack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ElyssaBack.Domain.AssemblyInfoInputs.cache
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ElyssaBack.Domain.AssemblyInfo.cs
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ElyssaBack.Domain.csproj.CoreCompileInputs.cache
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ElyssaBack.Domain.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\refint\ElyssaBack.Domain.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ElyssaBack.Domain.pdb
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Domain\obj\Debug\net8.0\ref\ElyssaBack.Domain.dll

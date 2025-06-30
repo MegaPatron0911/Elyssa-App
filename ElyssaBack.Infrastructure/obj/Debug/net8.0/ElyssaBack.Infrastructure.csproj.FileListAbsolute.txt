@@ -1,0 +1,11 @@
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Infrastructure\bin\Debug\net8.0\ElyssaBack.Infrastructure.deps.json
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Infrastructure\bin\Debug\net8.0\ElyssaBack.Infrastructure.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Infrastructure\bin\Debug\net8.0\ElyssaBack.Infrastructure.pdb
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Infrastructure\obj\Debug\net8.0\ElyssaBack.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Infrastructure\obj\Debug\net8.0\ElyssaBack.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Infrastructure\obj\Debug\net8.0\ElyssaBack.Infrastructure.AssemblyInfo.cs
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Infrastructure\obj\Debug\net8.0\ElyssaBack.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Infrastructure\obj\Debug\net8.0\ElyssaBack.Infrastructure.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Infrastructure\obj\Debug\net8.0\refint\ElyssaBack.Infrastructure.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Infrastructure\obj\Debug\net8.0\ElyssaBack.Infrastructure.pdb
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\ElyssaBack.Infrastructure\obj\Debug\net8.0\ref\ElyssaBack.Infrastructure.dll
