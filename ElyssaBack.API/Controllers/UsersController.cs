@@ -1,5 +1,6 @@
 using ElyssaBack.Application.Services;
 using ElyssaBack.Domain.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ElyssaBack.API.Controllers;
@@ -27,6 +28,7 @@ public class UsersController : ControllerBase
 
     // Returns all users
     [HttpGet]
+    [Authorize]
     public ActionResult<IEnumerable<User>> GetAllUsers()
     {
         return Ok(_userService.GetAllUsers());

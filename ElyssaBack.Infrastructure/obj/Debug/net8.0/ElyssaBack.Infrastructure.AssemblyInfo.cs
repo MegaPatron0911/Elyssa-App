@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElyssaBack.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3477e2c158dc05836f016dd7090c536b3e405e37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78bc2ac33fc2d963b18d26522586659df3200490")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElyssaBack.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElyssaBack.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
