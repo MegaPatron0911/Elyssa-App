@@ -10,3 +10,7 @@ C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\Infrast
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\oswal\OneDrive\Documentos\proyectos\Tartinorium Back\Elyssa App\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date

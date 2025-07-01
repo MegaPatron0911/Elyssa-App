@@ -1,5 +1,7 @@
 using Application.Services;
 using ApiProject.Authorization;
+using Infrastructure;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
@@ -10,7 +12,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
-builder.Services.AddScoped<IUserService, UserService>();
+// Configuración de EF Core y DbContext
+builder.Services.AddDbContext<Infrastructure.AppDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Aquí deberás crear una implementación de IUserService basada en EF Core
+// builder.Services.AddScoped<IUserService, EfUserService>();
 
 // JWT Authentication
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
@@ -71,6 +78,28 @@ app.MapGet("/weatherforecast", () =>
 })
 .WithName("GetWeatherForecast")
 .WithOpenApi();
+
+
+// Probar conexión a la base de datos y mostrar usuarios en consola
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<Infrastructure.AppDbContext>();
+    try
+    {
+        var users = db.Users.Take(5).ToList();
+        Console.WriteLine("Conexión a la base de datos exitosa. Usuarios encontrados:");
+        foreach (var user in users)
+        {
+            Console.WriteLine($"- {user.Email} ({user.Name})");
+        }
+        if (!users.Any())
+            Console.WriteLine("No hay usuarios en la base de datos.");
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"Error al conectar o consultar la base de datos: {ex.Message}");
+    }
+}
 
 app.Run();
 

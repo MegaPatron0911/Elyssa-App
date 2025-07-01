@@ -20,6 +20,7 @@ public class Role
     public string Name { get; set; } = string.Empty;
     // List of permissions associated with this role
     public ICollection<Permission> Permissions { get; set; } = new List<Permission>();
+    public ICollection<User> Users { get; set; } = new List<User>();
 }
 
 // Represents a specific permission in the system
@@ -28,4 +29,5 @@ public class Permission
     public Guid Id { get; set; }
     public string Name { get; set; } = string.Empty;
     public string Description { get; set; } = string.Empty;
+    public ICollection<Role> Roles { get; set; } = new List<Role>();
 }
