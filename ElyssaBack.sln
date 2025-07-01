@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElyssaBack.API", "ElyssaBack.API\ElyssaBack.API.csproj", "{80A044D8-54D1-49C9-8427-BAB55A42ED0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiProject", "ApiProject\ApiProject.csproj", "{80A044D8-54D1-49C9-8427-BAB55A42ED0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElyssaBack.Domain", "ElyssaBack.Domain\ElyssaBack.Domain.csproj", "{01585C2E-B604-46F9-85CD-4DC838529C9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{01585C2E-B604-46F9-85CD-4DC838529C9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElyssaBack.Application", "ElyssaBack.Application\ElyssaBack.Application.csproj", "{2C0D5AEE-7074-446F-8C9B-40C152569E4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{2C0D5AEE-7074-446F-8C9B-40C152569E4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElyssaBack.Infrastructure", "ElyssaBack.Infrastructure\ElyssaBack.Infrastructure.csproj", "{FCBCE53B-316F-4759-AA74-04DE6734A171}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{FCBCE53B-316F-4759-AA74-04DE6734A171}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElyssaBack.Domain.Tests", "ElyssaBack.Domain.Tests\ElyssaBack.Domain.Tests.csproj", "{31F9FC20-1DC9-4B27-9807-A26253E3075D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Tests", "Domain.Tests\Domain.Tests.csproj", "{31F9FC20-1DC9-4B27-9807-A26253E3075D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElyssaBack.Application.Tests", "ElyssaBack.Application.Tests\ElyssaBack.Application.Tests.csproj", "{42E34FB8-70E4-4428-B899-B338C32B56CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Tests", "Application.Tests\Application.Tests.csproj", "{42E34FB8-70E4-4428-B899-B338C32B56CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
